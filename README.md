@@ -1,6 +1,6 @@
 # 🧠 SkinScanAI – AI-Powered Skin Lesion Risk Classifier  
 
-![License: MIT](https://github.com/ashabari/SkinScanAI/blob/main/LICENSE)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Gradio](https://img.shields.io/badge/Gradio-3.5-orange.svg)
 ![Docker](https://img.shields.io/badge/Docker-20.10-blue.svg)
@@ -103,7 +103,7 @@ Full code and notebook:
 
 ## 🙌 Acknowledgements  
 Thanks to the open-source **ISIC** community and contributors.  
-Conversations and joint sessions with @drtirnadeb was crucial for this app developement.
+Conversations and joint sessions with [**Tirna Deb**](https://github.com/drtirnadeb) were crucial for this app developement.
 
 ⭐️ If you find this project helpful, please **star the repo** and **share the demo**!
 ⭐️ Reach out to me at **ashabarimajumdar@gmail.com**!
