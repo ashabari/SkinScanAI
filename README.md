@@ -1,5 +1,4 @@
 # 🧠 SkinScanAI – AI-Powered Skin Lesion Risk Classifier  
-**License:** [MIT](https://github.com/ashabari/SkinScanAI/blob/main/LICENSE) | Built with [Python 3.10](https://hub.docker.com/_/python) · [Gradio](https://gradio.app) · [Docker](https://www.docker.com) · [Hugging Face Spaces](https://huggingface.co/spaces/ashabari​majumdarPhD/SkinScanAI)
 
 ![License: MIT](https://github.com/ashabari/SkinScanAI/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
