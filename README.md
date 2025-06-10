@@ -13,9 +13,7 @@
 
 ---
 
-## 🚀 Try It Live  
-[**Launch SkinScanAI App**](https://huggingface.co/spaces/ashabari​majumdarPhD/SkinScanAI)  
-⚠️ *Please upload clear, close-up lesion photos—selfies or unrelated images may yield inaccurate high-risk predictions.*
+
 
 
 ---
@@ -23,7 +21,12 @@
 ## 🗂️ Project Overview  
 - **Notebook**: [MajumdarSkinScanAI.ipynb](https://github.com/ashabari/SkinScanAI/blob/main/MajumdarSkinScanAI.ipynb)  
 - **README.md**: That’s this file  
-- **Demo**: ![SkinScanAI Demo](SkinScanAI.gif)
+- **Demo**:
+- ## 🚀 Try It Live  
+[**Launch SkinScanAI App**](https://huggingface.co/spaces/ashabari​majumdarPhD/SkinScanAI)  
+⚠️ *Please upload clear, close-up lesion photos—selfies or unrelated images may yield inaccurate high-risk predictions.*
+-
+-   ![SkinScanAI Demo](SkinScanAI.gif)
 
 ---
 
