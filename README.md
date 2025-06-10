@@ -18,7 +18,7 @@
 - **Notebook**: [MajumdarSkinScanAI.ipynb](https://github.com/ashabari/SkinScanAI/blob/main/MajumdarSkinScanAI.ipynb)  
 - **README.md**: That’s this file  
 - **Demo**: Try It Live  
-[**Launch SkinScanAI App**](https://huggingface.co/spaces/ashabari​majumdarPhD/SkinScanAI)  
+[**Launch SkinScanAI App**](https://huggingface.co/spaces/ashabarimajumdarPhD/SkinScanAI)  
 ⚠️ **Please upload clear, close-up lesion photos—selfies or unrelated images may yield inaccurate high-risk predictions.**
 -
 -   ![SkinScanAI Demo](SkinScanAI.gif)
@@ -72,7 +72,7 @@ Public skin lesion images and metadata sourced from **ISIC**. Images are resized
 
 ## 🤖 Deployment  
 App is deployed via **Gradio + Docker** on Hugging Face Spaces.  
-[**Live App**](https://huggingface.co/spaces/ashabari​majumdarPhD/SkinScanAI)
+[**Live App**](https://huggingface.co/spaces/ashabarimajumdarPhD/SkinScanAI)
 
 **Usage Flow:**
 1. Upload a close-up lesion image  
